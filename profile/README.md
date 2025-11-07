@@ -619,8 +619,3 @@ I applied because investors is the fastest path to make our action agent real at
 No one specifically recruited me. I haven’t been to investors events in person, but I’ve followed investors content for years. The timing now is right: model costs and our traction make the idea viable, and investors’s guidance + partner intros can meaningfully accelerate distribution and partnerships.
 ```
 
-## 34. How did you meet your early supporters/advisors?
-
-I’ve followed investors content for years and several founder friends recommended applying
----
-_This document was adapted from an internal application export and normalized for investors on 2025-11-07 13:37 UTC._
